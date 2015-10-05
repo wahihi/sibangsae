@@ -1,4 +1,4 @@
-# sibangsae
+# sibangsae [時方새]
 sibangsae is open source drone. 
 The sibangsae means is "now" + "bird".
 sibang is old korean language.
